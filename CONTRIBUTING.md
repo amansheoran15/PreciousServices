@@ -197,3 +197,9 @@
 - Bio: University student | Front-end Developer
 - GitHub: [Shamimayesmin](https://github.com/Shamimayesmin)
 
+- #### Name: [Aman Sheoran](https://github.com/amansheoran15)
+
+- Place: Hisar, Haryana, India
+- Bio: MCA Student at National Institute of Technology, Karnataka | Web Developer
+- GitHub: [Aman Sheoran](https://github.com/amansheoran15)
+
